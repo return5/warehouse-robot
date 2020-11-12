@@ -32,4 +32,4 @@ simple game using NCURSES.Guide a robot around a warehouse to reach the green go
     
     feel free to contribute to any of these if you want.
 ## level editor
-  you can find the level editor [here](https://github.com/craptastic-terminal-games/warehouse-level_editor)
+  you can find the level editor [here](https://github.com/return5/warehouse-robot)
