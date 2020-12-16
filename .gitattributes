@@ -1,4 +1,35 @@
 <<<<<<< HEAD
+# Sources
+*.c     text diff=c
+*.h     text diff=c
+
+# Compiled Object files
+*.slo   binary
+*.lo    binary
+*.o     binary
+*.obj   binary
+
+# Precompiled Headers
+*.gch   binary
+*.pch   binary
+
+# Compiled Dynamic libraries
+*.so    binary
+*.dylib binary
+*.dll   binary
+
+# Compiled Static libraries
+*.lai   binary
+*.la    binary
+*.a     binary
+*.lib   binary
+
+# Executables
+*.exe   binary
+*.out   binary
+*.app   binary
+=======
+<<<<<<< HEAD
 # Common settings that generally should always be used with your language specific settings
 
 # Auto detect text files and perform LF normalization
@@ -86,3 +117,4 @@
 =======
 *.h linguist-language=C
 >>>>>>> 08825105f9faaf7c6d4dbb1177869dde6813848b
+>>>>>>> 4cfd1d311fb4a0e12317b30e54435ae54014eb0e
